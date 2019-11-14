@@ -1,0 +1,39 @@
+html {
+    font-size: 20px;
+    font-family: "Yeon Sung", cursive; /*questo è un commento*/
+    background-color: rgba(240, 234, 184);
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    margin: 0;
+    padding: 20px 0;
+    color: rgb(5, 104, 197);
+    text-shadow: 3px 3px 1px black;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(5, 104, 197);
+    text-shadow: 1.5px 1.5px 0.5px black;
+}
+
+p, li {
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1;
+}
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: rgba(15, 122, 228, 0.4);
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(5, 104, 197);
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
